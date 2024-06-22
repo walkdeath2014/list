@@ -1,54 +1,143 @@
-
-#EXTINF: TC TELEVISION HD
+#EXTM3U
+#EXTINF:-1,Ecuador Radio Usa live our_prefix_end iptvlister.com
+http://cord-cutter.net:8080/X5xRz0/944877/124863#checkedby:iptvlister.com
+#EXTINF:-1,Ecuador Radio Usa live Backup NO_1 iptvlister.com
+http://cord-cutter.net:8080/k4Svp2/645504/124863#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA158 ECUADOR TV (EC) iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/58762#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA106 TC TELEVISION (EC) Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/57951#checkedby:iptvlister.com
+#EXTINF:-1,EC Canela TV iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/284251#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA099 CANELA TV (EC) Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/57958#checkedby:iptvlister.com
+#EXTINF:-1,EC Ecuador TV iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9157#checkedby:iptvlister.com
+#EXTINF:-1,EC Gol TV iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9163#checkedby:iptvlister.com
+#EXTINF:-1,DEPORTE TV Op 3 (EC) R iptvlister.com
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162674#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA100 ECUADOR TV (EC) Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/57957#checkedby:iptvlister.com
+#EXTINF:-1,ECUAVISA SD (EC) R iptvlister.com
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162655#checkedby:iptvlister.com
+#EXTINF:-1,TC TELEVISION SD T2 (EC) R iptvlister.com
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162681#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Radio Stations",Ecuador Radio Usa live Backup NO_3 iptvlister.com
+http://fortv.cc:8080/jamie@bernard/902@379/124863#checkedby:iptvlister.com
+#EXTINF:-1,EC Hechos Ecuador iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286425#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA159 ECUAVISA (EC) iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/58761#checkedby:iptvlister.com
+#EXTINF:-1,La Imbasora Ecuador live Backup NO_1 iptvlister.com
+http://tv14s.xyz:8080/WzD7qQ/424962/138637#checkedby:iptvlister.com
+#EXTINF:-1 group-title="|| LIG⚽ ECUADOR ||",EC G O L TV Internacional iptvlister.com
+http://galaxypro.online:8080/PilarSayago1972/140772PilarSayago/283337#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Movies;Series github",Pantalla Clásica EC (512p) iptvlister.com
+https://ssh101-fl.bozztv.com/ssh101/ecuadoralmundo/playlist.m3u8#checkedby:iptvlister.com
+#EXTINF:-1,EC Oromar TV iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9164#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA098 CANAL UNO (EC) iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/57959#checkedby:iptvlister.com
+#EXTINF:-1,CANELA TV (EC) R iptvlister.com
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162668#checkedby:iptvlister.com
+#EXTINF:-1,La Imbasora Ecuador live iptvlister.com
+http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/138637#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA101 ECUAVISA (EC) iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/57956#checkedby:iptvlister.com
+#EXTINF:-1,TC TELEVISION HD (EC) R iptvlister.com
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162665#checkedby:iptvlister.com
-
-#EXTINF:LA109 Ecuador TV HD
+#EXTINF:-1 group-title="Latino",LA109 Ecuador TV HD (EC) Backup NO_1 iptvlister.com
 http://abcnew.site:8880/D12m2668/24493676/59188#checkedby:iptvlister.com
-
-#EXTINF:LA156 CANAL UNO
+#EXTINF:-1 group-title="Latino",LA156 CANAL UNO (EC) iptvlister.com
 http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/58764#checkedby:iptvlister.com
-
-#EXTINF:TC TELEVISION FHD
+#EXTINF:-1 group-title="ECUADOR",EC CANAL UNO Backup NO_1 iptvlister.com
+http://galaxypro.online:8080/PilarSayago1972/140772PilarSayago/564803#checkedby:iptvlister.com
+#EXTINF:-1,TC TELEVISION FHD (EC) R iptvlister.com
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162666#checkedby:iptvlister.com
-
-#EXTINF:LA104 GOL TV
+#EXTINF:-1 group-title="Latino",LA104 GOL TV (EC) iptvlister.com
 http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/57953#checkedby:iptvlister.com
-
-#EXTINF:RTS
+#EXTINF:-1,EC RTS iptvlister.com
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9165#checkedby:iptvlister.com
-
-#EXTINF:Ecuavisa Quito
+#EXTINF:-1 group-title="Latino",LA100 ECUADOR TV (EC) iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/57957#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA157 CANELA TV (EC) iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/58763#checkedby:iptvlister.com
+#EXTINF:-1,Ecuavisa Quito (EC) R iptvlister.com
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162683#checkedby:iptvlister.com
-
-#EXTINF:DirecTV Sports
+#EXTINF:-1,EC DirecTV Sports iptvlister.com
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297387#checkedby:iptvlister.com
-
-#EXTINF:RTS HD
+#EXTINF:-1,RTS HD (EC) R iptvlister.com
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162658#checkedby:iptvlister.com
-
-#EXTINF:LA163 OROMAR TV
+#EXTINF:-1 group-title="Latino",LA163 OROMAR TV (EC) iptvlister.com
 http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/58757#checkedby:iptvlister.com
-
-#EXTINF: Ecuavisa
+#EXTINF:-1,EC Ecuavisa iptvlister.com
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9159#checkedby:iptvlister.com
-
-#EXTINF:TELEAMAZONAS HD
+#EXTINF:-1,ELEAMAZONAS HD (EC) R iptvlister.com
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162660#checkedby:iptvlister.com
-
-#EXTINF:LA107 TELEAMAZONAS
+#EXTINF:-1 group-title="Latino",LA107 TELE AMAZONAS (EC) iptvlister.com
 http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/57950#checkedby:iptvlister.com
-
-#EXTINF: LA104 GOL TV
+#EXTINF:-1 group-title="Latino",LA104 GOL TV (EC) Backup NO_1 iptvlister.com
 http://abcnew.site:8880/D12m2668/24493676/57953#checkedby:iptvlister.com
-
-#EXTINF: Canal del Futbol (EC)
+#EXTINF:-1 group-title="Latino",LA099 CANELA TV (EC) iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/57958#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA162 GOL TV (EC) iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/58758#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="Ecuador github",Antena Uno RadioVideo (360p) iptvlister.com
+https://tvdatta.com:3578/live/antenaunolive.m3u8#checkedby:iptvlister.com
+#EXTINF:-1,Canal del Futbol (EC) R iptvlister.com
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162676#checkedby:iptvlister.com
-
-#EXTINF: RTS FHD
+#EXTINF:-1 group-title="Latino",LA106 TC TELEVISION (EC) iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/57951#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA105 OROMAR TV (EC) iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/57952#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TyckDSV.png" group-title="Hispanic America github",IeanJesus Ecuador (720p) iptvlister.com
+https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8#checkedby:iptvlister.com
+#EXTINF:-1,RTS FHD (EC) R iptvlister.com
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162672#checkedby:iptvlister.com
-
-#EXTINF: DirecTV Sports 2
+#EXTINF:-1,Ecuador Radio Ny live Backup NO_1 iptvlister.com
+http://cord-cutter.net:8080/k4Svp2/645504/123413#checkedby:iptvlister.com
+#EXTINF:-1,EC TC TV iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9167#checkedby:iptvlister.com
+#EXTINF:-1,ECUADOR TV (EC) R iptvlister.com
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162669#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA165 TELE AMAZONAS (EC) iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/58735#checkedby:iptvlister.com
+#EXTINF:-1,EC DirecTV Sports 2 iptvlister.com
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/167019#checkedby:iptvlister.com
-
-#EXTINF: GAMAVISION HD
+#EXTINF:-1,EC Canal Uno iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298695#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA107 TELE AMAZONAS (EC) Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/57950#checkedby:iptvlister.com
+#EXTINF:-1,GAMAVISION HD (EC) R iptvlister.com
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162662#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA105 OROMAR TV (EC) Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/57952#checkedby:iptvlister.com
+#EXTINF:-1,Ecuador TV iptvlister.com
+http://190.95.220.212:8000/play/a04m/index.m3u8#checkedby:iptvlister.com
+#EXTINF:-1,Ecuador Radio Usa live Backup NO_2 iptvlister.com
+http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/124863#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA101 ECUAVISA (EC) Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/57956#checkedby:iptvlister.com
+#EXTINF:-1 group-title="ECUADOR",EC Santo Domingo on Line iptvlister.com
+http://galaxypro.online:8080/PilarSayago1972/140772PilarSayago/564774#checkedby:iptvlister.com
+#EXTINF:-1 group-title="ECUADOR",EC Zaracay Tv iptvlister.com
+http://galaxypro.online:8080/PilarSayago1972/140772PilarSayago/564061#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA098 CANAL UNO (EC) Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/57959#checkedby:iptvlister.com
+#EXTINF:-1 group-title="|| LIG⚽ ECUADOR ||",EC G O L TV I A P R op2 iptvlister.com
+http://galaxypro.online:8080/PilarSayago1972/140772PilarSayago/356946#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Latino",LA109 Ecuador TV HD (EC) iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/59188#checkedby:iptvlister.com
+#EXTINF:-1,GAMAVISION FHD (EC) R iptvlister.com
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162663#checkedby:iptvlister.com
+#EXTINF:-1,Ecuador Radio Usa live iptvlister.com
+http://tv14s.xyz:8080/A1Jay5/362586/124863#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Hispanic America github",Hechos Ecuador (480p) [Not] [24/7] iptvlister.com
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Radio Stations",Ecuador Radio Ny live Backup NO_2 iptvlister.com
+http://fortv.cc:8080/jamie@bernard/902@379/123413#checkedby:iptvlister.com
+#EXTINF:-1,Ecuador Radio Ny live iptvlister.com
+http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/123413#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P5PtUcR.jpg" group-title="Americas github",ABC 13 Norfolk VA (WV) (EC) (1080p) iptvlister.com
+https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8#checkedby:iptvlister.com
